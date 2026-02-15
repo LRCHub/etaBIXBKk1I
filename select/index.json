@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Forgot About Dre（feat. エミネム）",
+  "base_artist": "ドクター・ドレー",
+  "createdAt": "2026-02-15T07:57:06.106299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forgot About Dre (feat. Eminem)",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/01_Forgot_About_Dre_(feat._Eminem)_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forgot About Dre feat. Eminem",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/02_Forgot_About_Dre_feat._Eminem_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forgot About Dre (Feat. Eminem",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/03_Forgot_About_Dre_(Feat._Eminem_Dr._Dre.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forgot About Dre (feat. Eminem)",
+      "artist": "Dr. Dre",
+      "has_synced": false,
+      "path": "select/pl_01_Forgot_About_Dre_(feat._Eminem)_Dr._Dre.txt"
+    }
+  ]
+}
